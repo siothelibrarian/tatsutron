@@ -1,0 +1,10 @@
+## 07-23-2019
+- Updated trello cards: fix directory issue, fix database issue have been moved to done status
+- .htaccess file has been updated. 
+-- removed alternate index.html redirect in order to not have files show after login. 
+-- used info here to update .htaccess to make directory browsing not allowed for security:  
+- Updated out of date plugins/themes. deleted unused themes.
+- added API key for Akismet - need to upgrade when no longer personal blog.
+
+Next step: begin building blog structure.
+
