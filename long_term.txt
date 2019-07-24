@@ -24,3 +24,5 @@
 ## security
 - be ed snowden
 
+## Plugins
+- Akismet: keeps people from spamming comments. currently free because personal blog. Once we have ads, sell something, etc; then we need to pay for it.
