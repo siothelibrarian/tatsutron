@@ -1,3 +1,10 @@
+## Notes
+- colors: 
+-- accent 28a3e9 sky blue
+-- accent dark 1b6491 dark blue
+-- text 666666 dark grey
+-- page f7f7f7 light grey
+
 ## 07-23-2019
 - Updated trello cards: fix directory issue, fix database issue have been moved to done status
 - .htaccess file has been updated. 
@@ -8,3 +15,26 @@
 
 Next step: begin building blog structure.
 
+## 07-24-2019
+- updated trello cards: build blog structure
+-- removed topbar and updated colors - header blue, logo gray
+- matt's feedback:
+-- logo text larger relative to banner.
+-- long term: matt wants to update fonts.
+- bug: why is menu not showing on mobile view?
+
+## 07-26-2019
+- updated logo text from 32px to 50px.
+-- mobile issue: when simple mobile header is off, logo is visible but with no space around letters. 
+-- when simple mobile header is on and other factors have been tweaked, logo disappears. search is visible, but menu still off.
+- created footer menu, still needs to be setup
+
+Next step: finish building footer menu. figure out mobile stuff.
+
+## 07-29-2019
+- started adding SoMes to footer and realized that we aren't sure which ones should go in the menu. Doesn't make sense to point people to something that is blank. > created card for future action. 
+- added list for Phase 2 ideas.
+- chatted with Matt about: email addresses, how he should write Pong post (tbc tomorrow), my next steps (tweaks to blog, setting up remote development
+
+
+Next step: Discuss Sprint Goals and Timeline with Matt. Make small tweaks to blog. Start building remote development.
