@@ -1,4 +1,4 @@
-## Notes
+# Notes
 - colors: 
 -- accent 28a3e9 sky blue
 -- accent dark 1b6491 dark blue
@@ -36,5 +36,15 @@ Next step: finish building footer menu. figure out mobile stuff.
 - added list for Phase 2 ideas.
 - chatted with Matt about: email addresses, how he should write Pong post (tbc tomorrow), my next steps (tweaks to blog, setting up remote development
 
-
 Next step: Discuss Sprint Goals and Timeline with Matt. Make small tweaks to blog. Start building remote development.
+
+## 07-30-2019
+- Added Home link to Primary Navigation.
+- Edited background color to light grey. Done through Advanced Styling menu under Theme Option in backend - changes wouldn't save in preview made. 
+- Removed page title from home page via Theme Options > Home Layout > Move "Page Title" to "Disabled"
+-- Will need to update Home Blog settings and Blog Options later > created card. 
+
+Next step: start style guide doc, set up remote development.
+
+## 07-31-2019
+
