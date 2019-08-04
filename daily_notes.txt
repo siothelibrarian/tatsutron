@@ -47,4 +47,17 @@ Next step: Discuss Sprint Goals and Timeline with Matt. Make small tweaks to blo
 Next step: start style guide doc, set up remote development.
 
 ## 07-31-2019
+- discussion with matt: change next step to setting up emails and mailing list. 
+-- hello, matt, sio for emails.
+-- hello is reply-to of newsletter. matt suggests that diff mailing list content have diff from, will need to see how complex this is. 
+-- maybe all newsletter content comes from sio?
 
+## 08-02-2019
+- created Toggl project for myself and Matt and began using.
+- created emails via Cpanel. 
+- Unable to connect to gmail due to authentication error. Also keep being logged out of webmail/receiving authentication erro in webmail ui.
+
+# 08-03-2019
+- created sio@
+- emailed Karina since authentication is not working after overnight server reset. 
+- started style_guide.txt to record style information for this project. 

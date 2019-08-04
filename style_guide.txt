@@ -1,0 +1,16 @@
+Style Guide for tatsutron.com
+- This document defines styles and colors for tatsutron.com and related products (newsletter, blog posts, etc).
+
+## General
+tatsutron is always lowercase. 
+
+## Colors
+
+accent 28a3e9 (cyan)
+accent dark 1b6491 (blue)
+text 666666 (dark grey)
+page f7f7f7 (light grey)
+
+## Font Styles
+Logo: SuperMercado One. 
+Text: Lato
