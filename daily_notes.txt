@@ -61,3 +61,18 @@ Next step: start style guide doc, set up remote development.
 - created sio@
 - emailed Karina since authentication is not working after overnight server reset. 
 - started style_guide.txt to record style information for this project. 
+
+# 08-06-2019
+- sprint discusssion: Goals for this week (Aug 4-11) 
+-- Sio to finish mail setup
+-- Matt to add bouncing feature for ball in pong alpha code/draft. 
+- still pending: long term discussion.
+
+# 08-07-2019
+- respond to Karina's email with screenshots about email authentication issue. 
+- mailchimp setup
+-- updated info to be tatsutron.com rather than mattwilson.website. 
+-- verified domain access for mailchimp to access hello@tatsutron.com as 
+
+# 08-12-2019
+- new sprint goals: finish mailing list setup (S) and write Pong Alpha to complete user paddles (M)
