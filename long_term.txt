@@ -1,5 +1,4 @@
 ## E-book 
-
 - Research e-book platforms / creation
 - plan 3 tier pricing
 - set up payment processing
@@ -21,6 +20,7 @@
 ## Legal
 - research company structure options
 - research copyright
+- research GDPR and what we need to do to be compliant
 
 ## security
 - be ed snowden
